@@ -1,6 +1,4 @@
-# -Xception-CNN-model
-
-# Xception
+# Xception-CNN-model
 
 In this activity, I used the pretrained `Xception` CNN model to predict image labels.
 
